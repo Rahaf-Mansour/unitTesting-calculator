@@ -1,7 +1,7 @@
-# Unit Testing task for a simple calculator
+# Unit Testing Project For A Simple Calculator
 This project employs Jest for unit testing and code coverage analysis, by testing many cases in order to perform the needed requirements.
 
-## Task Requierments:
+## Project Requierments:
 
 1. Create a simple calculator function.
 2. You need to pass these test cases, it is important to properly implement the calc function.
