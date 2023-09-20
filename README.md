@@ -1,6 +1,16 @@
 # Unit Testing Project For A Simple Calculator
 This project employs Jest for unit testing and code coverage analysis, by testing many cases in order to perform the needed requirements.
 
+## Steps to clone the repository and generate code coverage using npm::
+1. Clone the GitHub Repository:
+```git clone https://github.com/Rahaf-Mansour/unitTesting-calculator.git```
+2. Install Dependencies: ```cd unitTesting-calculator``` then 
+ ``` npm install ```
+3. Run Unit Tests: ```npm test```
+4. Generate Code Coverage: ```npm run coverage```
+
+
+
 ## Project Requierments:
 
 1. Create a simple calculator function.
